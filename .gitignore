@@ -1,0 +1,6 @@
+target/
+.vscode/settings.json
+.metals/
+.bsp/
+.bloop/
+metals.sbt
